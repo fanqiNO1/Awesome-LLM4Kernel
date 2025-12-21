@@ -47,6 +47,7 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [PIKE-B](#202511-optimizing-pytorch-inference-with-llm-based-multi-agent-systems): Torch2CUDA
 - [QiMeng-Kernel](#202511-aaai-2026-qimeng-kernel-macro-thinking-micro-coding-paradigm-for-llm-based-high-performance-gpu-kernel-generation): Torch2CUDA
 - [TritonForge](#202512-tritonforge-profiling-guided-framework-for-automated-triton-kernel-optimization): Torch2Triton
+- [cuPilot](#202512-cupilot-a-strategy-coordinated-multi-agent-framework-for-cuda-kernel-evolution)
 
 ### 💻 C / C++ Related
 
@@ -115,6 +116,7 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [KernelFalcon](#202511-kernelfalcon-autonomous-gpu-kernel-generation-via-deep-agents): Agents
 - [PIKE-B](#202511-optimizing-pytorch-inference-with-llm-based-multi-agent-systems): Agents
 - [TritonForge](#202512-tritonforge-profiling-guided-framework-for-automated-triton-kernel-optimization): Multiple LLMs (`Test Generation`, `Kernel Optimization`)
+- [cuPilot](#202512-cupilot-a-strategy-coordinated-multi-agent-framework-for-cuda-kernel-evolution)
 
 ### 🧩 Other Methods
 
@@ -286,6 +288,10 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 ### (2025.12) TritonForge: Profiling-Guided Framework for Automated Triton Kernel Optimization
 
 > 📃 [Paper](https://arxiv.org/abs/2512.09196)
+
+### (2025.12) cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution
+
+> 📃 [Paper](https://arxiv.org/abs/2512.16465)
 
 ---
 
