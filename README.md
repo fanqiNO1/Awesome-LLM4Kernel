@@ -44,7 +44,6 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [CudaForge](#202511-cudaforge-an-agent-framework-with-hardware-feedback-for-cuda-kernel-optimization): Torch2CUDA
 - [PRAGMA](#202511-pragma-a-profiling-reasoned-multi-agent-framework-for-automatic-kernel-optimization): Torch2CUDA
 - [KForge](#202511-kforge-program-synthesis-for-diverse-ai-hardware-accelerators): Torch2CUDA, Torch2MPS (Metal Performance Shaders, Apple)
-- [AccelOpt](): 
 - [KernelFalcon](#202511-kernelfalcon-autonomous-gpu-kernel-generation-via-deep-agents): Torch2CUDA
 - [PIKE-B](#202511-optimizing-pytorch-inference-with-llm-based-multi-agent-systems): Torch2CUDA
 - [QiMeng-Kernel](#202511-aaai-2026-qimeng-kernel-macro-thinking-micro-coding-paradigm-for-llm-based-high-performance-gpu-kernel-generation): Torch2CUDA
@@ -103,7 +102,6 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [SparseRL](#202510-mastering-sparse-cuda-generation-through-pretrained-models-and-deep-reinforcement-learning): Pretrain + SFT + RL
 - [QiMeng-Kernel](#202511-aaai-2026-qimeng-kernel-macro-thinking-micro-coding-paradigm-for-llm-based-high-performance-gpu-kernel-generation): RL (RLVR)
 - [CUDA-L2](#202512-cuda-l2-surpassing-cublas-performance-for-matrix-multiplication-through-reinforcement-learning): RL
-
 
 ### 🔁 Self-Refinement & Iterative Optimization
 
