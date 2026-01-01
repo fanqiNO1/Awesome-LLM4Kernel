@@ -50,6 +50,8 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [TritonForge](#202512-tritonforge-profiling-guided-framework-for-automated-triton-kernel-optimization): Torch2Triton
 - [TritorX](#202512-agentic-operator-generation-for-ml-asics): Torch2Triton (Triton-MTIA: Meta Training and Inference Accelerator)
 - [cuPilot](#202512-cupilot-a-strategy-coordinated-multi-agent-framework-for-cuda-kernel-evolution): Torch2CUDA
+- [KernelEvolve](#202512-kernelevolve-scaling-agentic-kernel-coding-for-heterogeneous-ai-accelerators-at-meta): Torch2Triton (Triton-MTIA: Meta Training and Inference Accelerator)
+- [AKG kernel Agent](#202512-akg-kernel-agent-a-multi-agent-framework-for-cross-platform-kernel-synthesis): Torch2Triton (CUDA and Ascend), Torch2CPP, Torch2TileLang, Torch2CUDA
 
 ### 💻 C / C++ Related
 
@@ -60,7 +62,7 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 
 - [ComputeEval](#202504-computeeval-evaluating-large-language-models-for-cuda-code-generation): Text2CUDA
 - [CUDA-LLM](#202506-cuda-llm-llms-can-write-efficient-cuda-kernels): Text2CUDA
-- [PEAK](#202512-peak-performance-engineering-ai-assistant-for-gpu-kernels-powered-by-natural-language-transformations): Text2CUDA, Text2HIP (AMD), TextHLSL (High-Level Shader Language, Microsoft)
+- [PEAK](#202512-peak-performance-engineering-ai-assistant-for-gpu-kernels-powered-by-natural-language-transformations): Text2CUDA, Text2HIP (AMD), Text2HLSL (High-Level Shader Language, Microsoft)
 
 ### 🧩 Other Paradigms
 
@@ -74,6 +76,7 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [MaxCode](#202510-maxcode-a-max-reward-reinforcement-learning-framework-for-automated-code-optimization): CUDA2CUDA
 - [AccelOpt](#202511-accelOpt-a-self-improving-llm-agentic-system-for-ai-accelerator-kernel-optimization): NKI2NKI (Neuron Kernel Interface, AWS Trainium accelerator) 
 - [CUDA-L2](#202512-cuda-l2-surpassing-cublas-performance-for-matrix-multiplication-through-reinforcement-learning): `Half-precision General Matrix Multiply (HGEMM)`
+- [Optimize-MEP](#202512-gpu-kernel-optimization-beyond-full-builds-an-llm-framework-with-minimal-executable-programs): Kernel Optimization (CUDA and HIP)
 
 ## 🎯 By Technical Focus
 
@@ -124,6 +127,9 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [TritorX](#202512-agentic-operator-generation-for-ml-asics): Agents
 - [cuPilot](#202512-cupilot-a-strategy-coordinated-multi-agent-framework-for-cuda-kernel-evolution): Agents
 - [PEAK](#202512-peak-performance-engineering-ai-assistant-for-gpu-kernels-powered-by-natural-language-transformations): Single LLM (`Natural Language Transformations`)
+- [Optimize-MEP](#202512-gpu-kernel-optimization-beyond-full-builds-an-llm-framework-with-minimal-executable-programs): Multiple LLMs (`MEP Construction` and `Optimization`)
+- [KernelEvolve](#202512-kernelevolve-scaling-agentic-kernel-coding-for-heterogeneous-ai-accelerators-at-meta): Agents
+- [AKG kernel Agent](#202512-akg-kernel-agent-a-multi-agent-framework-for-cross-platform-kernel-synthesis): Agents
 
 ### 🧩 Other Methods
 
@@ -321,6 +327,18 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 ### (2025.12) PEAK: A Performance Engineering AI-Assistant for GPU Kernels Powered by Natural Language Transformations
 
 > 📃 [Paper](https://arxiv.org/abs/2512.19018)
+
+### (2025.12) GPU Kernel Optimization Beyond Full Builds: An LLM Framework with Minimal Executable Programs
+
+> 📃 [Paper](https://arxiv.org/abs/2512.22147)
+
+### (2025.12) KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta
+
+> 📃 [Paper](https://arxiv.org/abs/2512.23236)
+
+### (2025.12) AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis
+
+> 📃 [Paper](https://arxiv.org/abs/2512.23424)
 
 ---
 
