@@ -62,7 +62,8 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 
 - [ComputeEval](#202504-computeeval-evaluating-large-language-models-for-cuda-code-generation): Text2CUDA
 - [CUDA-LLM](#202506-cuda-llm-llms-can-write-efficient-cuda-kernels): Text2CUDA
-- [PEAK](#202512-peak-performance-engineering-ai-assistant-for-gpu-kernels-powered-by-natural-language-transformations): Text2CUDA, Text2HIP (AMD), Text2HLSL (High-Level Shader Language, Microsoft)
+- [PEAK](#202512-peak-performance-engineering-ai-assistant-for-gpu-kernels-powered-by-natural-language-transformations): Text2CUDA, Text2HIP (AMD), TextHLSL (High-Level Shader Language, Microsoft)
+- [AscendKernelGen](#202601-ascendkernelgen-a-systematic-study-of-llm-based-kernel-generation-for-neural-processing-units): Text2AscendC (Huawei NPU)
 
 ### 🧩 Other Paradigms
 
@@ -105,6 +106,7 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 - [SparseRL](#202510-mastering-sparse-cuda-generation-through-pretrained-models-and-deep-reinforcement-learning): Pretrain + SFT + RL
 - [QiMeng-Kernel](#202511-aaai-2026-qimeng-kernel-macro-thinking-micro-coding-paradigm-for-llm-based-high-performance-gpu-kernel-generation): RL (RLVR)
 - [CUDA-L2](#202512-cuda-l2-surpassing-cublas-performance-for-matrix-multiplication-through-reinforcement-learning): RL
+- [AscendKernelGen](#202601-ascendkernelgen-a-systematic-study-of-llm-based-kernel-generation-for-neural-processing-units): SFT + RL
 
 ### 🔁 Self-Refinement & Iterative Optimization
 
@@ -339,6 +341,10 @@ Awesome-LLM4Kernel: A curated list of papers with codes related to LLM-based ker
 ### (2025.12) AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis
 
 > 📃 [Paper](https://arxiv.org/abs/2512.23424)
+
+### (2026.01) AscendKernelGen: A Systematic Study of LLM-Based Kernel Generation for Neural Processing Units
+
+> 📃 [Paper](https://arxiv.org/abs/2601.07160)
 
 ---
 
